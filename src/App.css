@@ -1,0 +1,9 @@
+* {
+  font-size: 115%;
+}
+body {
+  background-color: lightblue;
+}
+textarea{
+  resize: none;
+}
